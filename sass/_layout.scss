@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+#search {
+  border: 3px solid black;
+  padding: 1rem 2rem;
+  width: 20rem;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.output {
+  width: 35rem;
+  margin-top: 2rem;
+}
+.locationsliste {
+  list-style: none;
+}
